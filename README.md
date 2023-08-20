@@ -1,5 +1,7 @@
 # Aguirre-etal-epistasis
 
+[![DOI](https://zenodo.org/badge/636480349.svg)](https://zenodo.org/badge/latestdoi/636480349)
+
 This repository contains the code to reproduce the analyses from:
 
 Lyndsey Aguirre, Anat Hendelman, Samuel F. Hutton, David M. McCandlish, and Zachary B. Lippman, 
